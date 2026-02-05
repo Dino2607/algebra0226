@@ -1,0 +1,7 @@
+C:\Users\Tomas\source\repos\primer paso\primer paso\bin\Debug\primer paso.exe.config
+C:\Users\Tomas\source\repos\primer paso\primer paso\bin\Debug\primer paso.exe
+C:\Users\Tomas\source\repos\primer paso\primer paso\bin\Debug\primer paso.pdb
+C:\Users\Tomas\source\repos\primer paso\primer paso\obj\Debug\primer paso.csproj.AssemblyReference.cache
+C:\Users\Tomas\source\repos\primer paso\primer paso\obj\Debug\primer paso.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\primer paso\primer paso\obj\Debug\primer paso.exe
+C:\Users\Tomas\source\repos\primer paso\primer paso\obj\Debug\primer paso.pdb
